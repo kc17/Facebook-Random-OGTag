@@ -53,6 +53,8 @@
 > 照片檔案最好越小越好 | **最小限制尺寸 200 * 200**
 
 > Guide : https://developers.facebook.com/docs/sharing/webmasters#basic
+>
+> 想知道有沒有寫對可以用：https://developers.facebook.com/tools/debug/
 
 三. 跑個排程打打 Graph Debugger URL API
 > GET method "https://graph.facebook.com/v2.9/?scrape=true&id=http://eatgether.com/"
