@@ -1,4 +1,3 @@
-# Facebook-Random-OGTag
 # 起手式
 * 一台能連上 GOOGLE 的電腦
 
